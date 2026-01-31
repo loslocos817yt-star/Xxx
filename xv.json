@@ -1,6 +1,11 @@
-{
-  "video_url": "https://www.xvideos.es/embedframe/ufehhhhb7ca",
-  "titulo": "Mi Video Favorito",
-  "ancho": 510,
-  "alto": 400
-}
+[
+  {
+    "nombre": "Título del video aquí",
+    "url": "https://www.xvideos.es/embedframe/ufehhhhb7ca"
+  },
+  {
+    "nombre": "Otro video más",
+    "url": "https://www.xvideos.es/embedframe/otro-id-aqui"
+  }
+]
+
